@@ -1,4 +1,4 @@
-<h1 align="center"> Hey! I am topstar991122@gmail.com</h1>
+<h1 align="center"> Hey! I am YAMAZAKI ARAKI</h1>
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
