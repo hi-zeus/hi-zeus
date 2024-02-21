@@ -31,14 +31,11 @@
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="60"/>   
 </p>
 
-# Hi there 👋 <img src="https://media.giphy.com/media/hVa6t0WpoDOk7Pxb7l/giphy.gif" width="50">
-
-
-I am a 2023 CS undergrad gaining experience in Backend and implementing computer engineering fundamentals with React-TypeScript. Additionally, I am a professional Technical writer.
+# Hi there 👋 
 
 <p align="center">
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=hi-zeus&theme=dracula&column=4&margin-w=15&margin-h=15" alt="William Potter" />
+    <a href="https://github.com/hi-zeus/github-profile-trophy">
+        <img src="https://github-profile-trophy.vercel.app/?username=hi-zeus&theme=dracula&column=4&margin-w=15&margin-h=15" alt="hi-zeus" />
     </a>
 </p>
 
