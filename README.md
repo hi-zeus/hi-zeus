@@ -31,13 +31,6 @@
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="60"/>   
 </p>
 
-# Hi there 👋 
-
-<p align="center">
-    <a href="https://github.com/hi-zeus">
-        <img src="https://github-profile-trophy.vercel.app/?username=hi-zeus&theme=dracula&column=4&margin-w=15&margin-h=15" alt="hi-zeus" />
-    </a>
-</p>
 
 # Github Activity📊:
 
