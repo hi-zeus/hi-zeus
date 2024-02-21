@@ -43,7 +43,7 @@ I am a 2023 CS undergrad gaining experience in Backend and implementing computer
 </p>
 
 <!--
-**William-Potter-exp/William-Potter-exp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**hi-zeus/hi-zeus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -61,9 +61,9 @@ Here are some ideas to get you started:
 <hr>
 
 <h3 align="center">Visitor Count</h3>
-<a align="center" href="https://profile-counter.glitch.me/{William-Potter-exp}/count.svg">
+<a align="center" href="https://profile-counter.glitch.me/{hi-zeus}/count.svg">
   
-  ![VisitorCount](https://profile-counter.glitch.me/{William-Potter-exp}/count.svg)  
+  ![VisitorCount](https://profile-counter.glitch.me/{hi-zeus}/count.svg)  
   
 </a>
 
@@ -73,12 +73,12 @@ Here are some ideas to get you started:
 
 <table>
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=William-Potter-exp&theme=radical&show_icons=true"  display=block width=100% height=auto  alt="1" ></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=William-Potter-exp&theme=radical&layout=compact&hide=Jupyter%20Notebook"  display=block width=100% height=auto  alt="2" ></td>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=hi-zeus&theme=radical&show_icons=true"  display=block width=100% height=auto  alt="1" ></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hi-zeus&theme=radical&layout=compact&hide=Jupyter%20Notebook"  display=block width=100% height=auto  alt="2" ></td>
    </tr> 
    <tr>
-      <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=William-Potter-exp&theme=tokyonight"  display=block width=100% height=auto alt="3" ></td>
-     <td><img src="https://github-readme-stats.vercel.app/api/wakatime?username=William-Potter-exp&custom_title=Language%20Stats&layout=compact&theme=tokyonight" align="right" display=block width=100% height=auto  alt="4"  >
+      <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=hi-zeus&theme=tokyonight"  display=block width=100% height=auto alt="3" ></td>
+     <td><img src="https://github-readme-stats.vercel.app/api/wakatime?username=hi-zeus&custom_title=Language%20Stats&layout=compact&theme=tokyonight" align="right" display=block width=100% height=auto  alt="4"  >
   </td>
   </tr>
 </table>
