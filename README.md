@@ -35,14 +35,6 @@
 # Github Activity📊:
 
 <table>
-  <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=hi-zeus&theme=radical&show_icons=true"  display=block width=100% height=auto  alt="1" ></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hi-zeus&theme=radical&layout=compact&hide=Jupyter%20Notebook"  display=block width=100% height=auto  alt="2" ></td>
-   </tr> 
-   <tr>
-      <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=hi-zeus&theme=tokyonight"  display=block width=100% height=auto alt="3" ></td>
-     <td><img src="https://github-readme-stats.vercel.app/api/wakatime?username=hi-zeus&custom_title=Language%20Stats&layout=compact&theme=tokyonight" align="right" display=block width=100% height=auto  alt="4"  >
-  </td>
-  </tr>
+<img src="https://camo.githubusercontent.com/648458365995c0120bd86bfcb7b83012bc64c0b0a78cdb27d64fef3bdb44d522/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d68692d7a657573267468656d653d7261646963616c266c61796f75743d636f6d7061637426686964653d4a7570797465722532304e6f7465626f6f6b" />
 </table>
 
