@@ -34,37 +34,10 @@
 # Hi there 👋 
 
 <p align="center">
-    <a href="https://github.com/hi-zeus/github-profile-trophy">
+    <a href="https://github.com/hi-zeus">
         <img src="https://github-profile-trophy.vercel.app/?username=hi-zeus&theme=dracula&column=4&margin-w=15&margin-h=15" alt="hi-zeus" />
     </a>
 </p>
-
-<!--
-**hi-zeus/hi-zeus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-<hr>
-
-<h3 align="center">Visitor Count</h3>
-<a align="center" href="https://profile-counter.glitch.me/{hi-zeus}/count.svg">
-  
-  ![VisitorCount](https://profile-counter.glitch.me/{hi-zeus}/count.svg)  
-  
-</a>
-
-<hr>
 
 # Github Activity📊:
 
